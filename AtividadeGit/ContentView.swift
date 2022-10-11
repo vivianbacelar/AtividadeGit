@@ -14,6 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Amo a Isabella")
+            Text ("Best Friends <3")
+            
             
             
         }
